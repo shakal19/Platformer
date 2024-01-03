@@ -1,1 +1,2 @@
-Game platformer in java
+Game platformer in java 
+all parts are here
